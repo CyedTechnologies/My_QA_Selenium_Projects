@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-26T22:03:01 EDT" name="Suite" finished-at="2022-05-26T22:03:01 EDT" duration-ms="85">
+    <groups>
+    </groups>
+    <test started-at="2022-05-26T22:03:01 EDT" name="Test" finished-at="2022-05-26T22:03:01 EDT" duration-ms="85">
+      <class name="udemyAcademy.A_tSection19_z.Maven.NokiaTest">
+        <test-method signature="Nokia8Sirocco()[pri:0, instance:udemyAcademy.A_tSection19_z.Maven.NokiaTest@333291e3]" started-at="2022-05-26T22:03:01 EDT" name="Nokia8Sirocco" finished-at="2022-05-26T22:03:01 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Nokia8Sirocco -->
+        <test-method signature="Nokia9PureView()[pri:0, instance:udemyAcademy.A_tSection19_z.Maven.NokiaTest@333291e3]" started-at="2022-05-26T22:03:01 EDT" name="Nokia9PureView" finished-at="2022-05-26T22:03:01 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Nokia9PureView -->
+      </class> <!-- udemyAcademy.A_tSection19_z.Maven.NokiaTest -->
+      <class name="udemyAcademy.A_tSection19_z.Maven.SamsungTest">
+        <test-method signature="SamsungGalaxyA535G()[pri:0, instance:udemyAcademy.A_tSection19_z.Maven.SamsungTest@20ce78ec]" started-at="2022-05-26T22:03:01 EDT" name="SamsungGalaxyA535G" finished-at="2022-05-26T22:03:01 EDT" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SamsungGalaxyA535G -->
+        <test-method signature="SamsungGalaxyA735G()[pri:0, instance:udemyAcademy.A_tSection19_z.Maven.SamsungTest@20ce78ec]" started-at="2022-05-26T22:03:01 EDT" name="SamsungGalaxyA735G" finished-at="2022-05-26T22:03:01 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SamsungGalaxyA735G -->
+      </class> <!-- udemyAcademy.A_tSection19_z.Maven.SamsungTest -->
+      <class name="udemyAcademy.A_tSection19_z.Maven.IphoneTest">
+        <test-method signature="Iphone6()[pri:0, instance:udemyAcademy.A_tSection19_z.Maven.IphoneTest@43195e57]" started-at="2022-05-26T22:03:01 EDT" name="Iphone6" finished-at="2022-05-26T22:03:01 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Iphone6 -->
+        <test-method signature="IphoneXR()[pri:0, instance:udemyAcademy.A_tSection19_z.Maven.IphoneTest@43195e57]" started-at="2022-05-26T22:03:01 EDT" name="IphoneXR" finished-at="2022-05-26T22:03:01 EDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IphoneXR -->
+      </class> <!-- udemyAcademy.A_tSection19_z.Maven.IphoneTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

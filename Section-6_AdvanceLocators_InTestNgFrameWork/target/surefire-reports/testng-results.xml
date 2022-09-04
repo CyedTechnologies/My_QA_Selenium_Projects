@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-13T23:21:13 EDT" name="Suite" finished-at="2022-07-13T23:21:22 EDT" duration-ms="8356">
+    <groups>
+    </groups>
+    <test started-at="2022-07-13T23:21:13 EDT" name="Test" finished-at="2022-07-13T23:21:22 EDT" duration-ms="8356">
+      <class name="testCases.LogInPageTestCases">
+        <test-method is-config="true" signature="allBefore()[pri:0, instance:testCases.LogInPageTestCases@73cd37c0]" started-at="2022-07-13T23:21:13 EDT" name="allBefore" finished-at="2022-07-13T23:21:17 EDT" duration-ms="3113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allBefore -->
+        <test-method signature="Test2()[pri:0, instance:testCases.LogInPageTestCases@73cd37c0]" started-at="2022-07-13T23:21:20 EDT" name="Test2" finished-at="2022-07-13T23:21:21 EDT" duration-ms="601" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method is-config="true" signature="allAfter()[pri:0, instance:testCases.LogInPageTestCases@73cd37c0]" started-at="2022-07-13T23:21:22 EDT" name="allAfter" finished-at="2022-07-13T23:21:22 EDT" duration-ms="250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allAfter -->
+      </class> <!-- testCases.LogInPageTestCases -->
+      <class name="testCases.SignInTextTestCases">
+        <test-method is-config="true" signature="allBefore()[pri:0, instance:testCases.SignInTextTestCases@632ceb35]" started-at="2022-07-13T23:21:17 EDT" name="allBefore" finished-at="2022-07-13T23:21:20 EDT" duration-ms="3293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allBefore -->
+        <test-method signature="Test1()[pri:0, instance:testCases.SignInTextTestCases@632ceb35]" started-at="2022-07-13T23:21:21 EDT" name="Test1" finished-at="2022-07-13T23:21:22 EDT" duration-ms="1041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method is-config="true" signature="allAfter()[pri:0, instance:testCases.SignInTextTestCases@632ceb35]" started-at="2022-07-13T23:21:22 EDT" name="allAfter" finished-at="2022-07-13T23:21:22 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allAfter -->
+      </class> <!-- testCases.SignInTextTestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
